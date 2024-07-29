@@ -1,5 +1,5 @@
 # Project-21
-// &&
+// && : Check both conditions
 
 fun main (){
 
